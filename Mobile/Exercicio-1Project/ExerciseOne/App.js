@@ -25,11 +25,12 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   containerEmail: {
-    backgroundColor: '#6D7FF9',
+    backgroundColor: 'white',
     alignItems: 'flex-end',
     justifyContent: 'flex-end',
-    borderColor: 'black',
-    borderWidth: 1,
+    borderColor: '#EAB608',
+    borderWidth: 3,
+    borderRadius: 8,
   },
   image: {
     width: '100%'
